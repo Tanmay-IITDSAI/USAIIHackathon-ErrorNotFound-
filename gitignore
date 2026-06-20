@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Model caches / downloads
+*.bin
+*.safetensors
+*.gguf
+huggingface_cache/
+.cache/
+
+# Generated outputs from the pipeline
+execution_plan_*.md
+execution_plan_*.mp3
+outputs/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Secrets
+.env
+*.env

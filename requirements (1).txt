@@ -1,0 +1,7 @@
+transformers>=4.45.0
+torch>=2.2.0
+accelerate>=0.30.0
+bitsandbytes>=0.43.0
+gTTS>=2.5.0
+matplotlib>=3.8.0
+numpy>=1.26.0
