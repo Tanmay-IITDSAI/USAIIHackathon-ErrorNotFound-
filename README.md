@@ -1,5 +1,7 @@
 <div align="center">
 
+#In Round 2 Judging
+
 # 🧠 Second Brain: Cognitive Scaffold Engine v3.0
 
 ### *Zero-to-One Builder — 100% Free · GPU-Accelerated · Voice-Enabled · Benchmarked*
